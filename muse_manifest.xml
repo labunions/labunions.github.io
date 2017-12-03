@@ -1,21 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1512294367920">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1512298911671">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="laber.css" crc="261843498" ref="laber"/>
     <file name="lab.css" crc="4240943346" ref="lab"/>
     <file name="more.css" crc="4147036089" ref="more"/>
     <file name="index.css" crc="3960710181" ref="index"/>
+    <file name="404.css" crc="3885998188" ref="404"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab:laber:more"/>
-    <file name="museutils.js" crc="3803043152" ref="index:lab:laber:more"/>
-    <file name="whatinput.js" crc="86476730" ref="index:lab:laber:more"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:lab:laber:more"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:lab:laber:more"/>
-    <file name="require.js" crc="4157109226" ref="index:lab:laber:more"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab:laber:more:404"/>
+    <file name="museutils.js" crc="3803043152" ref="index:lab:laber:more:404"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lab:laber:more:404"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:lab:laber:more:404"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:lab:laber:more:404"/>
+    <file name="require.js" crc="4157109226" ref="index:lab:laber:more:404"/>
   </folder>
-  <file name="index.html" crc="4139258901" seo="true" mt="1512293659665" redirect="true"/>
+  <file name="index.html" crc="4139258901" seo="true" mt="1512294523133" redirect="true"/>
   <file name="lab.html" crc="110898748" seo="true" mt="1512293665646" redirect="true"/>
   <file name="laber.html" crc="168527085" seo="true" mt="1512293670072" redirect="true"/>
   <file name="more.html" crc="396814135" seo="true" mt="1512293674840" redirect="true"/>
+  <file name="404.html" crc="222805299" seo="true" mt="1512298905213" redirect="true"/>
 </manifest>
