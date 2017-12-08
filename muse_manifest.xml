@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1512659925121">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1512729298706">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="lab.css" crc="3929138249" ref="lab"/>
-    <file name="nomq_lab.css" crc="102982206" ref="lab"/>
-    <file name="more.css" crc="3982452548" ref="more"/>
-    <file name="nomq_more.css" crc="4147265696" ref="more"/>
-    <file name="index.css" crc="525611169" ref="index"/>
-    <file name="nomq_index.css" crc="163398526" ref="index"/>
-    <file name="laber.css" crc="3994014132" ref="laber"/>
-    <file name="nomq_laber.css" crc="4127954275" ref="laber"/>
-    <file name="404.css" crc="306365122" ref="404"/>
+    <file name="404.css" crc="4176837705" ref="404"/>
     <file name="nomq_404.css" crc="4273328078" ref="404"/>
+    <file name="laber.css" crc="4121467779" ref="laber"/>
+    <file name="nomq_laber.css" crc="4127954275" ref="laber"/>
+    <file name="index.css" crc="27892750" ref="index"/>
+    <file name="nomq_index.css" crc="163398526" ref="index"/>
+    <file name="more.css" crc="4037277172" ref="more"/>
+    <file name="nomq_more.css" crc="4147265696" ref="more"/>
+    <file name="lab.css" crc="373331628" ref="lab"/>
+    <file name="nomq_lab.css" crc="465823606" ref="lab"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab:laber:more:404"/>
@@ -21,9 +21,9 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:lab:laber:more:404"/>
     <file name="require.js" crc="4157109226" ref="index:lab:laber:more:404"/>
   </folder>
-  <file name="index.html" crc="4134157866" seo="true" mt="1512659815799" redirect="true"/>
-  <file name="lab.html" crc="4124741250" seo="true" mt="1512659796979" redirect="true"/>
-  <file name="laber.html" crc="488749992" seo="true" mt="1512659740627" redirect="true"/>
-  <file name="more.html" crc="4257879797" seo="true" mt="1512659698807" redirect="true"/>
-  <file name="404.html" crc="405094256" seo="true" mt="1512659665130" redirect="true"/>
+  <file name="index.html" crc="472235512" seo="true" mt="1512659815799" redirect="true"/>
+  <file name="lab.html" crc="4129230328" seo="true" mt="1512729133745" redirect="true"/>
+  <file name="laber.html" crc="4248430823" seo="true" mt="1512729248011" redirect="true"/>
+  <file name="more.html" crc="410048230" seo="true" mt="1512659698807" redirect="true"/>
+  <file name="404.html" crc="3878594943" seo="true" mt="1512659665130" redirect="true"/>
 </manifest>
