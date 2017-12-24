@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1514133204381">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1514155438647">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="lab.css" crc="4103392121" ref="lab"/>
-    <file name="nomq_lab.css" crc="3872166104" ref="lab"/>
-    <file name="404.css" crc="468005844" ref="404"/>
+    <file name="lab.css" crc="3959109147" ref="lab"/>
+    <file name="nomq_lab.css" crc="510674164" ref="lab"/>
+    <file name="404.css" crc="3815825684" ref="404"/>
     <file name="nomq_404.css" crc="525030785" ref="404"/>
-    <file name="index.css" crc="278927800" ref="index"/>
-    <file name="nomq_index.css" crc="114873643" ref="index"/>
-    <file name="laber.css" crc="4188844262" ref="laber"/>
+    <file name="laber.css" crc="3869081541" ref="laber"/>
     <file name="nomq_laber.css" crc="1137810" ref="laber"/>
-    <file name="more.css" crc="4186787259" ref="more"/>
+    <file name="index.css" crc="4115321516" ref="index"/>
+    <file name="nomq_index.css" crc="114873643" ref="index"/>
+    <file name="more.css" crc="4155858295" ref="more"/>
     <file name="nomq_more.css" crc="239778280" ref="more"/>
   </folder>
   <folder name="scripts">
@@ -74,9 +74,9 @@
       <caption webpage="laber" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4212186411" seo="true" mt="1514133140665" redirect="true"/>
-  <file name="lab.html" crc="3795873029" seo="true" mt="1514133149489" redirect="true"/>
-  <file name="laber.html" crc="417077069" seo="true" mt="1514133158211" redirect="true"/>
-  <file name="more.html" crc="3922210643" seo="true" mt="1514133166660" redirect="true"/>
-  <file name="404.html" crc="80554038" seo="true" mt="1514133172880" redirect="true"/>
+  <file name="index.html" crc="50124247" seo="true" mt="1514154370632" redirect="true"/>
+  <file name="lab.html" crc="4285820465" seo="true" mt="1514155372309" redirect="true"/>
+  <file name="laber.html" crc="42828889" seo="true" mt="1514133158211" redirect="true"/>
+  <file name="more.html" crc="347319275" seo="true" mt="1514133166660" redirect="true"/>
+  <file name="404.html" crc="3816163080" seo="true" mt="1514133172880" redirect="true"/>
 </manifest>
