@@ -2,49 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://labunions.com/index.html</loc>
-    <lastmod>2017-12-11</lastmod>
+    <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://labunions.com/images/light.jpg</image:loc>
+      <image:loc>http://labunions.com/images/a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://labunions.com/images/light400x200.jpg</image:loc>
+      <image:loc>http://labunions.com/images/b.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://labunions.com/images/light374x187.jpg</image:loc>
+      <image:loc>http://labunions.com/images/c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/d.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/a400x267.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/b400x267.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/c400x267.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/d400x267.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/a374x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/b374x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/c374x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://labunions.com/images/d374x250.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://labunions.com/lab.html</loc>
-    <lastmod>2017-12-08</lastmod>
+    <lastmod>2017-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://labunions.com/laber.html</loc>
-    <lastmod>2017-12-11</lastmod>
+    <lastmod>2017-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://labunions.com/images/earth.jpg</image:loc>
+      <image:loc>http://labunions.com/images/w.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://labunions.com/images/earth400x200.jpg</image:loc>
+      <image:loc>http://labunions.com/images/w429x286.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://labunions.com/images/earth374x187.jpg</image:loc>
+      <image:loc>http://labunions.com/images/w374x250.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://labunions.com/more.html</loc>
-    <lastmod>2017-12-08</lastmod>
+    <lastmod>2017-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://labunions.com/404.html</loc>
-    <lastmod>2017-12-08</lastmod>
+    <lastmod>2017-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
