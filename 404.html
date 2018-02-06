@@ -14,29 +14,20 @@ document.documentElement.className = document.documentElement.className.replace(
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "404.css"], "outOfDate":[]};
 </script>
   
+  <link rel="shortcut icon" href="images/favicon.ico?crc=3907746069"/>
   <title>404</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/404.css?crc=4233623377" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/404.css?crc=135973377" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_404.css?crc=525030785" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_404.css?crc=232699388" id="nomq_pagesheet"/>
   <![endif]-->
    </head>
  <body>
 
-  <div class="breakpoint active" id="bp_infinity" data-min-width="769"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox shared_content" id="page" data-content-guid="page_content"><!-- group -->
-    <div class="browser_width grpelem shared_content" id="u2942-bw" data-content-guid="u2942-bw_content">
-     <div id="u2942"><!-- group -->
-      <div class="clearfix" id="u2942_align_to_page">
-       <div class="clearfix grpelem" id="u935-6" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content -->
-        <p id="u935-2">404</p>
-        <p id="u935-4">Not Found</p>
-       </div>
-      </div>
-     </div>
-    </div>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="415"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- group -->
     <div class="clearfix grpelem shared_content" id="pu3288" data-content-guid="pu3288_content"><!-- group -->
      <div class="browser_width" id="u3288-bw">
       <div id="u3288"><!-- simple frame --></div>
@@ -45,21 +36,27 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>Lab Unions</p>
      </div>
      <a class="nonblock nontext clearfix" id="u2876-4" href="index.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Home</p></a>
-     <a class="nonblock nontext clearfix" id="u2877-4" href="lab.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Lab</p></a>
-     <a class="nonblock nontext clearfix" id="u2878-4" href="laber.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Laber</p></a>
+     <a class="nonblock nontext clearfix" id="u2877-4" href="labs.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Labs</p></a>
+     <a class="nonblock nontext clearfix" id="u2878-4" href="work.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>Work</p></a>
      <a class="nonblock nontext clearfix" id="u2879-4" href="more.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>More</p></a>
     </div>
-    <div class="verticalspacer" data-offset-top="1280" data-content-above-spacer="1280" data-content-below-spacer="0" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="clearfix grpelem shared_content" id="pu935-6" data-content-guid="pu935-6_content"><!-- column -->
+     <div class="clearfix colelem" id="u935-6" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content -->
+      <p id="u935-2">404</p>
+      <p id="u935-4">Not Found</p>
+     </div>
+     <div class="browser_width colelem" id="u7065-bw">
+      <div id="u7065"><!-- simple frame --></div>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="850" data-content-above-spacer="850" data-content-below-spacer="50" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
-  </div>
-  <div class="breakpoint" id="bp_768" data-min-width="415" data-max-width="768"><!-- responsive breakpoint node -->
-   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content"><!-- placeholder node --></span>
   </div>
   <div class="breakpoint" id="bp_414" data-max-width="414"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="browser_width grpelem placeholder" data-placeholder-for="u2942-bw_content"><!-- placeholder node --></span>
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu3288_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="900" data-content-above-spacer="900" data-content-below-spacer="0" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu935-6_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="650" data-content-above-spacer="650" data-content-below-spacer="50" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
   </div>
   <!-- Other scripts -->
@@ -87,6 +84,6 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
 </script>
   <!-- RequireJS script -->
-  <script src="scripts/require.js?crc=4157109226" type="text/javascript" async data-main="scripts/museconfig.js?crc=4153641093" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script src="scripts/require.js?crc=4157109226" type="text/javascript" async data-main="scripts/museconfig.js?crc=380897831" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
    </body>
 </html>

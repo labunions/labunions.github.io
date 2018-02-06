@@ -1,82 +1,94 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1514155623457">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1517901104189">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="429535167" ref="index"/>
-    <file name="nomq_index.css" crc="114873643" ref="index"/>
-    <file name="lab.css" crc="236048347" ref="lab"/>
-    <file name="nomq_lab.css" crc="510674164" ref="lab"/>
-    <file name="404.css" crc="4233623377" ref="404"/>
-    <file name="nomq_404.css" crc="525030785" ref="404"/>
-    <file name="laber.css" crc="3838921344" ref="laber"/>
-    <file name="nomq_laber.css" crc="1137810" ref="laber"/>
-    <file name="more.css" crc="3995917278" ref="more"/>
-    <file name="nomq_more.css" crc="239778280" ref="more"/>
+    <file name="more.css" crc="4174601626" ref="more"/>
+    <file name="nomq_more.css" crc="160769102" ref="more"/>
+    <file name="index.css" crc="5452256" ref="index"/>
+    <file name="nomq_index.css" crc="172739896" ref="index"/>
+    <file name="404.css" crc="135973377" ref="404"/>
+    <file name="nomq_404.css" crc="232699388" ref="404"/>
+    <file name="labs.css" crc="4170034310" ref="labs"/>
+    <file name="nomq_labs.css" crc="253383281" ref="labs"/>
+    <file name="work.css" crc="3928100534" ref="work"/>
+    <file name="nomq_work.css" crc="142414970" ref="work"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lab:laber:more:404"/>
-    <file name="museutils.js" crc="3803043152" ref="index:lab:laber:more:404"/>
-    <file name="whatinput.js" crc="86476730" ref="index:lab:laber:more:404"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:lab:laber:more:404"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:lab:laber:more:404"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:labs:work:more:404"/>
+    <file name="museutils.js" crc="3803043152" ref="index:labs:work:more:404"/>
+    <file name="whatinput.js" crc="86476730" ref="index:labs:work:more:404"/>
+    <file name="museconfig.js" crc="380897831" ref="index:labs:work:more:404"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:labs:work:more:404"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:lab:laber:more:404"/>
-    <file name="require.js" crc="4157109226" ref="index:lab:laber:more:404"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:labs:work:more:404"/>
+    <file name="require.js" crc="4157109226" ref="index:labs:work:more:404"/>
   </folder>
   <folder name="images">
-    <file name="a.jpg" crc="300275221" seo="true" ref="index">
+    <file name="favicon.ico" crc="3907746069" ref="index"/>
+    <file name="moon.jpg" crc="4096122456" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:lab:laber:more:404"/>
-    <file name="b.jpg" crc="3961344589" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:labs:work:more:404"/>
+    <file name="code.jpg" crc="324900629" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c.jpg" crc="4013963698" seo="true" ref="index">
+    <file name="sh.jpg" crc="6099710" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="d.jpg" crc="137534055" seo="true" ref="index">
+    <file name="enter.jpg" crc="4015862072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moon40x40.jpg" crc="94242362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="code40x40.jpg" crc="240771538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sh40x40.jpg" crc="337723776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enter40x40.jpg" crc="201387698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="a400x267.jpg" crc="301715963" seo="true" ref="index">
+    <file name="moon374x374.jpg" crc="332128641" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b400x267.jpg" crc="527571229" seo="true" ref="index">
+    <file name="code374x374.jpg" crc="191981571" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c400x267.jpg" crc="4125002048" seo="true" ref="index">
+    <file name="sh374x374.jpg" crc="266646490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="d400x267.jpg" crc="4120670206" seo="true" ref="index">
+    <file name="enter374x374.jpg" crc="4146888823" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a374x249.jpg" crc="4091193275" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="150-01.jpg" crc="4210033044" seo="true" ref="labs">
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
-    <file name="b374x249.jpg" crc="4111546679" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="150-02.jpg" crc="159744152" seo="true" ref="labs">
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
-    <file name="c374x250.jpg" crc="3790152630" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="150-03.jpg" crc="484808149" seo="true" ref="labs">
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
-    <file name="d374x250.jpg" crc="318131469" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="w.jpg" crc="238217044" seo="true" ref="laber">
-      <caption webpage="laber" alt=""/>
-    </file>
-    <file name="w429x286.jpg" crc="414512965" seo="true" ref="laber">
-      <caption webpage="laber" alt=""/>
-    </file>
-    <file name="w374x250.jpg" crc="385263797" seo="true" ref="laber">
-      <caption webpage="laber" alt=""/>
+    <file name="150-04.jpg" crc="3916553454" seo="true" ref="labs">
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4072337618" seo="true" mt="1514154370632" redirect="true"/>
-  <file name="lab.html" crc="278480111" seo="true" mt="1514155611193" redirect="true"/>
-  <file name="laber.html" crc="515952227" seo="true" mt="1514133158211" redirect="true"/>
-  <file name="more.html" crc="88783903" seo="true" mt="1514133166660" redirect="true"/>
-  <file name="404.html" crc="4071418712" seo="true" mt="1514133172880" redirect="true"/>
+  <file name="index.html" crc="294651802" seo="true" mt="1517901075189" redirect="true"/>
+  <file name="labs.html" crc="133633560" seo="true" mt="1517901075189" redirect="true"/>
+  <file name="work.html" crc="520063778" seo="true" mt="1517901075189" redirect="true"/>
+  <file name="more.html" crc="486020368" seo="true" mt="1517901075189" redirect="true"/>
+  <file name="404.html" crc="4201923834" seo="true" mt="1517901075189" redirect="true"/>
 </manifest>
