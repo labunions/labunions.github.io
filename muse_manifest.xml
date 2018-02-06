@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1517901897203">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="labunions.com" resolutions="1x" timestamp="1517921910797">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="work.css" crc="131990384" ref="work"/>
-    <file name="nomq_work.css" crc="142414970" ref="work"/>
-    <file name="404.css" crc="491698069" ref="404"/>
-    <file name="nomq_404.css" crc="232699388" ref="404"/>
-    <file name="labs.css" crc="3923747140" ref="labs"/>
-    <file name="nomq_labs.css" crc="253383281" ref="labs"/>
-    <file name="more.css" crc="4196304192" ref="more"/>
-    <file name="nomq_more.css" crc="160769102" ref="more"/>
-    <file name="index.css" crc="359005056" ref="index"/>
+    <file name="labs.css" crc="482567370" ref="labs"/>
+    <file name="nomq_labs.css" crc="3863248576" ref="labs"/>
+    <file name="404.css" crc="4041926635" ref="404"/>
+    <file name="nomq_404.css" crc="469660856" ref="404"/>
+    <file name="more.css" crc="422386938" ref="more"/>
+    <file name="nomq_more.css" crc="3916083589" ref="more"/>
+    <file name="index.css" crc="4218520722" ref="index"/>
     <file name="nomq_index.css" crc="172739896" ref="index"/>
+    <file name="work.css" crc="4114100441" ref="work"/>
+    <file name="nomq_work.css" crc="4273477576" ref="work"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:labs:work:more:404"/>
@@ -86,9 +86,9 @@
       <caption webpage="labs" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3816606847" seo="true" mt="1517901075189" redirect="true"/>
-  <file name="labs.html" crc="122234142" seo="true" mt="1517901844809" redirect="true"/>
-  <file name="work.html" crc="11613934" seo="true" mt="1517901075189" redirect="true"/>
-  <file name="more.html" crc="4149989180" seo="true" mt="1517901075189" redirect="true"/>
-  <file name="404.html" crc="4058739380" seo="true" mt="1517901075189" redirect="true"/>
+  <file name="index.html" crc="4278062286" seo="true" mt="1517921779759" redirect="true"/>
+  <file name="labs.html" crc="3841971632" seo="true" mt="1517921792727" redirect="true"/>
+  <file name="work.html" crc="236197659" seo="true" mt="1517921821990" redirect="true"/>
+  <file name="more.html" crc="3824589889" seo="true" mt="1517921860685" redirect="true"/>
+  <file name="404.html" crc="326663499" seo="true" mt="1517921873463" redirect="true"/>
 </manifest>
